@@ -11,7 +11,7 @@ The training dataset is created following the rules mentioned in the assignment
 
 All the regression models are finetuned using GridSearch and the best models are evaluated using R-Squared Score
 
-R^2 Scores:
+R-Squared Scores:
 |Model                 |Training Set    |Testin Set       |
 | :--                  | :--            | :--             |
 |Elastic Net           |0.942           |0.944            |
